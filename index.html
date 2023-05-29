@@ -13,7 +13,7 @@ a {background-color: #282828; color: #ebdbb2;}
 }
 </style>
 </head>
-
+<body onload=display_ct();>
 
 
 <p>
@@ -43,6 +43,13 @@ a {background-color: #282828; color: #ebdbb2;}
 </html>
 
 <script>
+function display_c(){
+var refresh=1000;
+mytime=setTimeout('display_ct()',refresh);
+}
+function display_ct(){
 var dt = new Date();
 document.getElementById('date-time').innerHTML=dt;
+display_c();
+}
 </script>
