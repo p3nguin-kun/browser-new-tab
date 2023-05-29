@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Homepage</title>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<style>
+body {background-color: #282828; color: #ebdbb2; top: 0; left: 0; width: 100%; height: 100%; position: absolute; display: table}
+p {background-color: #282828; color: #ebdbb2; display: table-cell; vertical-align: middle; text-align: center}
+a {background-color: #282828; color: #ebdbb2;}
+
+}
+</style>
+</head>
+
+<p>
+<font size="7"><i><b>Homepage<br> </h1>
+<br>
+<img src = "https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/anime/yumechizu.png" style="width=460px;"</img></br>
+<br><br>
+
+<a href="https://p3nguin-kun.github.io/contacts.html">👥 Contacts</a> • 
+<a href="https://p3nguin-kun.github.io/personal-details.html">ℹ️ Personal Details</a> • 
+<a href="https://p3nguin-kun.github.io/projects.html">📦 Projects</a> •
+<a href="https://p3nguinkun.blogspot.com">📝 Blogs</a> • 
+<a href="https://github.com/p3nguin-kun?tab=repositories">🐈◼️ Repos</a>
+
+
+
+
+
+
+
+<br>
+<br>
+</body>
+</html>
